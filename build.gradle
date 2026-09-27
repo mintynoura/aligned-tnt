@@ -15,9 +15,8 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"aligned_tnt" {
 			sourceSet sourceSets.main
-			sourceSet sourceSets.client
 		}
 	}
 }
