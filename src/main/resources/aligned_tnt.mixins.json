@@ -1,9 +1,9 @@
 {
 	"required": true,
 	"package": "io.github.mintynoura.alignedtnt.mixin",
-	"compatibilityLevel": "JAVA_25",
+	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"PrimedTntMixin"
+		"TntEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
